@@ -43,10 +43,9 @@ Currently deepening my skills through **Harvard's CS50P**, **IBM AI Engineering*
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
 
 ---
 
