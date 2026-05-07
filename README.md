@@ -33,17 +33,17 @@ Currently deepening my skills through **Harvard's CS50P**, **IBM AI Engineering*
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Lucas's GitHub Stats" />
+  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Lucas's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luke-lynx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📬 Connect with me
