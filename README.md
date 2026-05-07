@@ -21,38 +21,36 @@ Currently deepening my skills through **Harvard's CS50P**, **IBM AI Engineering*
 ## 🛠️ Tech Stack
 
 **Main focus:**
-
-<div style="display: inline-block">
+<span>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-</div>
+</span>
 
 <br>
 
 **Also working with:**
-
-<div style="display: inline-block">
+<span>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</span>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Lucas's GitHub Stats](https://readme-stats-one-sigma.vercel.app/api?username=luke-lynx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+![Top Languages](https://readme-stats-one-sigma.vercel.app/api/top-langs/?username=luke-lynx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📬 Connect with me
 
 <div>
-  <a href="https://www.linkedin.com/in/lucas-barbosa-nascimento/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasbarbosa-ia" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:lucasbgnascimento321@gmail.com">
